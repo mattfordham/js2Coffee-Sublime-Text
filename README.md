@@ -1,0 +1,1 @@
+A simple Sublime Text plugin for converting selected Javascript to Coffeescript using the [js2Coffee](https://github.com/rstacruz/js2coffee) Node.js module, which needs to be installed separately.
